@@ -1,4 +1,3 @@
-// Get references to the display and buttons
 const display = document.getElementById("display");
 const buttons = document.querySelectorAll(".button");
 
